@@ -1,0 +1,6 @@
+﻿  MySocket.cpp
+c:\users\mnash\desktop\btn415 - data communication programming\final project\milestone 2\mysocket.cpp(138): warning C4553: '==': operator has no effect; did you intend '='?
+c:\users\mnash\desktop\btn415 - data communication programming\final project\milestone 2\mysocket.cpp(142): warning C4553: '==': operator has no effect; did you intend '='?
+c:\users\mnash\desktop\btn415 - data communication programming\final project\milestone 2\mysocket.cpp(218): warning C4715: 'MySocket::GetType': not all control paths return a value
+  Client.vcxproj -> C:\Users\mnash\Desktop\BTN415 - Data Communication Programming\Final Project\Milestone 2\Debug\Client.exe
+  Client.vcxproj -> C:\Users\mnash\Desktop\BTN415 - Data Communication Programming\Final Project\Milestone 2\Debug\Client.pdb (Full PDB)
